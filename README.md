@@ -36,3 +36,6 @@ git clone https://github.com/your_account/pstest01.git
 9.	Refresh your GitHub site and see if the changes are there
 10. Turn in a screenshot showing your commmits like this:
 ![](https://github.com/ericcase/IFT220_Lab2/blob/master/Lab2_Submit_Example.PNG)
+
+#this is a comment
+#this is another comment 
